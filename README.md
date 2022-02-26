@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nash115
 - 👀 I’m interested by coding and planes ;)
-- 🌱 I’m currently learning Python, C, Javascript...
+- 🌱 I’m currently learning and using Python, C, Javascript...
 - 💞️ I’m looking to collaborate on lot of my projects (some don't make sense) xd :P
 - 📫 How to reach me : Nash115(YouTube) - Nash115_83(Twitch) - librojestfr@gmail.com(Contact)
 <!---
