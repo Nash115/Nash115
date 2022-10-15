@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Nash115
 - 👀 I’m interested by 💻 and ✈️
-- 🌱 I’m currently learning and using Python, C, Javascript...
-- 💞️ I’m looking to collaborate on lot of my projects (some don't make sense) xd :P
-- 📫 How to reach me : Nash115(YouTube) - Nash115_83(Twitch)
-<!---
-Nash115/Nash115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently using and improving my Python's skills
+- 💞️ I’m looking to collaborate on lot of my projects (some don't make sense)
+- 📷 How to see me : Nash115(YouTube) - Nash115_83(Twitch)
+- 📫 How to reach me : contact.marsbro@gmail.com
