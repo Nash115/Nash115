@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nash115
+- 👋 Hi, I’m @nash115
 - 👀 I’m interested by 💻 and ✈️
 - 🌱 I’m currently using and improving my Python's skills
 - 💞️ I’m looking to collaborate on lot of my projects (some don't make sense)
