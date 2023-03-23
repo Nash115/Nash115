@@ -3,4 +3,4 @@
 - 🌱 I’m currently using and improving my Python's skills
 - 💞️ I’m looking to collaborate on lot of my projects (some don't make sense)
 - 📷 How to see me : [Nash115(YouTube)](https://www.youtube.com/channel/UCE2y3l9QOn9zHOb_6nGg5ow) - [Nash115_83(Twitch)](https://www.twitch.tv/nash115_83)
-- 📫 How to reach me : contact.marsbro@gmail.com
+- 📫 How to reach me : https://twitter.com/Nash1151
