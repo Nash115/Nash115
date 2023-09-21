@@ -5,4 +5,6 @@
 - 📷 How to find me : [YouTube ▶️](https://www.youtube.com/@Nash115)
 - 📫 How to reach me : [X (Twitter) 🐦](https://twitter.com/Nash1151)
 - 🏜️ I have worked on many projects, but some of them are private or abandoned...
-- 🕹️ However, I'm currently working on two new projects with Python: a [puzzle game](https://github.com/Nash115/The_overflowing_void) and a [survival game](https://github.com/Nash115/Surviving_the_fire) (built with the library [Pyxel](https://github.com/kitao/pyxel))!
+- 🕹️ However, I'm currently working on two new projects :
+  - a [puzzle game (The overflowing void)](https://github.com/Nash115/The_overflowing_void) with python and the library [Pyxel](https://github.com/kitao/pyxel)
+  - a [survival game (RainFlame Resiliennce)](https://github.com/Nash115/RainFlame_Resilience) to discover the [Godot engine](https://github.com/godotengine/godot)
