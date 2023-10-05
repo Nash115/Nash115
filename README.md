@@ -5,6 +5,5 @@
 - 📷 How to find me : [YouTube ▶️](https://www.youtube.com/@Nash115)
 - 📫 How to reach me : [X (Twitter) 🐦](https://twitter.com/Nash1151)
 - 🏜️ I have worked on many projects, but some of them are private or abandoned...
-- 🕹️ However, I'm currently working on two new projects :
-  - a [puzzle game (The overflowing void)](https://github.com/Nash115/The_overflowing_void) with python and the library [Pyxel](https://github.com/kitao/pyxel)
-  - a game to discover the [Godot engine](https://github.com/godotengine/godot)
+- 🕹️ However, I'm currently working on :
+  - a game with [Godot engine](https://github.com/godotengine/godot) (with [@Chloecureuil](https://github.com/Chloecureuil))
