@@ -1,6 +1,8 @@
 # 👋 Hi, I’m **@nash115**
 
-:octocat:
+<h3 align="center">
+  :octocat: Want to see more? Check out my <a href="https://nash115.me" target="_blank">Portfolio</a> and my <a href="https://writeups.nash115.me" target="_blank">CTF Writeups (WIP)</a>!
+</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,rust,dart,lua,bash,html,css,react,nodejs,express,flask,fastapi,flutter,bevy,postgres,mongodb,sqlite,linux,ubuntu,docker,nginx,prometheus,grafana,git,github,arduino,raspberrypi,apple,vscode,vim,obsidian,md,latex,notion,figma,blender,godot,selenium,linkedin,discord" />
