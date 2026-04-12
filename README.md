@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **@nash115**
 
 <h3 align="center">
-  :octocat: Want to see more? Check out my <a href="https://nash115.me" target="_blank">Portfolio</a> and my <a href="https://writeups.nash115.me" target="_blank">CTF Writeups (WIP)</a>!
+  :octocat: Want to see more? Check out my <a href="https://nash115.me" target="_blank">Portfolio</a> and my <a href="https://writeups.nash115.me" target="_blank">CTF Writeups</a>!
 </h3>
 
 <p align="center">
