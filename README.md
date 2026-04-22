@@ -5,5 +5,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,rust,dart,lua,bash,html,css,react,nodejs,express,flask,fastapi,flutter,bevy,postgres,mongodb,sqlite,linux,ubuntu,arch,docker,nginx,prometheus,grafana,git,github,arduino,raspberrypi,apple,vscode,vim,obsidian,md,latex,notion,figma,blender,godot,selenium,linkedin,discord" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,rust,dart,lua,bash,html,css,nodejs,astro,express,flask,fastapi,react,flutter,bevy,postgres,mongodb,sqlite,linux,ubuntu,arch,docker,nginx,prometheus,grafana,cloudflare,git,github,arduino,raspberrypi,apple,vscode,vim,obsidian,md,latex,notion,figma,blender,godot,selenium,linkedin,discord" />
 </p>
